@@ -1,4 +1,4 @@
 # WorldHappinessReport
 Internal Assessment-2(Data Visualization)
-esha b4
-arva b4
+Esha shelar (KJ SOMAIYA COLLEGE OF ENGINEERING)
+Arva Kachwala (KJ SOMAIYA COLLEGE OF ENGINEERING)
